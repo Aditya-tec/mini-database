@@ -1,4 +1,4 @@
-**README**
+
 
 This program, Database_in_C++, is a console-based application designed to manage a simple database of people. It offers functionality to add, display, save, load, search, and remove entries from the database. The program is written in C++ and utilizes basic file handling to save and load data.
 
@@ -22,4 +22,3 @@ This program, Database_in_C++, is a console-based application designed to manage
 - Ensure correct input while removing a person to avoid errors.
 - Saved data is stored in the `database.txt` file in the same directory as the program.
 
-Please feel free to modify the program according to your requirements or integrate it into your projects. If you encounter any issues or have suggestions for improvement, contributions are welcome.
